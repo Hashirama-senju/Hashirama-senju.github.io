@@ -136,9 +136,9 @@ html {
 }
 
 .menu .image img {
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
+    width: 180px;
+    height: 200px;
+    border-radius: 20%;
     text-align: center;
 }
 
